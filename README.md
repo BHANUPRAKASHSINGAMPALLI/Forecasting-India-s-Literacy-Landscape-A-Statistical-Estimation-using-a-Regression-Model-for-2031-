@@ -1,0 +1,2 @@
+# Forecasting-India-s-Literacy-Landscape-A-Statistical-Estimation-using-a-Regression-Model-for-2031-
+Python and Microsoft Excel were used for data process. The analysis predicts that India may reach 100%  literacy by 2041. The predictions offer insight into India’s overall literacy growth and highlight states that may require targeted policy measures.  These insights aim to inform educational planning and guide future development goals
